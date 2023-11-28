@@ -1,4 +1,4 @@
-![Design and Development](https://wallpapercrafter.com/sizes/1920x1080/55118-computer-minimalism-web-developer-hd.jpg)
+![logo](https://github.com/GumapacJ/GumapacJ/blob/e681fd904e7f9fa1ff689726e51c55fd7025016b/banner.jpg)
 <h1 align="center">Hi 👋, I'm Jonathan Gumapac</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
